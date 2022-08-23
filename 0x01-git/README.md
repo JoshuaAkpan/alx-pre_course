@@ -1,1 +1,1 @@
-This is a readme for the gitor the git folder
+This is the updated readme for the git folder
